@@ -1,0 +1,10 @@
+{
+    "MODEL": "U-BU88-MDGT",
+    "ENGINE": "14B 3660",
+    "FRAME": "BU88-0014877",
+    "COLOR": "048",
+    "TRIM": "PB41",
+    "TRANS": "M153 L144",
+    "PLANT": "A11",
+    "band": "toyota"
+}
